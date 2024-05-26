@@ -1,0 +1,7 @@
+
+Nama Pelanggan: Lodero
+Merk Laptop: Asus
+Tipe Laptop: ROG Strix G15
+Acessories:Lenovo
+Harga Laptop:9000
+Harga Aksesoris:8000
